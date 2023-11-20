@@ -6,6 +6,7 @@ settings:
   prod:
     pdf_enabled: true
     harmony_enabled: false
+  downlevel: true
   versions:
   - version-number: '4.8'
     url: "/snapcenter-48"
