@@ -13,7 +13,7 @@ settings:
   - version-number: '5.0'
     url: "/snapcenter"
   - version-number: '4.9'
-    url: "/snapcenter-4.9"
+    url: "/snapcenter-49"
   - version-number: '4.7'
     url: "/snapcenter-47"
   - version-number: '4.6'
