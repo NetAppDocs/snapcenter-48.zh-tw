@@ -57,7 +57,7 @@ NOTE: 不支援複製執行個體的備份。
 
 . 選取資料庫或資源群組。
 . 從「Manage Copies（管理複本）」檢視頁面、從主要或次要（鏡射或資料保存）儲存系統選取備份。
-. 選取備份、然後按一下*image:../media/clone_icon.gif[""]*。
+. 選取備份、然後按一下 * *image:../media/clone_icon.gif["複製圖示"]。
 . 在Clone Options（Clone選項）頁面中、執行下列動作：
 +
 |===

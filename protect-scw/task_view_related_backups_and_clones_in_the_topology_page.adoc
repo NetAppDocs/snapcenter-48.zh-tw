@@ -67,7 +67,7 @@ NOTE: 您無法重新命名或刪除二線儲存系統上的備份。
 ** 如果您使用SnapCenter 適用於Linux的支援還原外掛程式套件、並已使用Oracle Recovery Manager（RMAN）將備份編錄為目錄、則無法重新命名這些已編製的備份。
 
 
-. 如果您要刪除複本、請從表格中選取複本、然後按一下 image:../media/delete_icon.gif[""] 刪除複本。
+. 如果要刪除複本、請從表格中選取複本、然後按一下 image:../media/delete_icon.gif["刪除圖示"] 以刪除複本。
 
 
 *顯示主儲存設備上的備份與複本的範例*

@@ -1,5 +1,5 @@
 ---
-permalink: protect-sco/task_create_resource_groups_and_attach_policies_for_oracle_databases.html 
+permalink: protect-sco/task_create_resource_groups_and_attaching_policies_for_oracle_databases.html 
 sidebar: sidebar 
 keywords: run as 
 summary: 資源群組是一個容器、您可以在其中新增要備份和保護的資源。資源群組可讓您同時備份與指定應用程式相關的所有資料。 
@@ -20,7 +20,7 @@ summary: 資源群組是一個容器、您可以在其中新增要備份和保�
 
 下圖說明資料庫的資源、資源群組和原則之間的關係：
 
-image::../media/sco_resourcegroup_policy.gif[SCO資源群組原則]
+image::../media/sco_resourcegroup_policy.gif[資源群組原則]
 
 .步驟
 . 在左側導覽窗格中、選取 * 資源 * 、然後從清單中選取適當的外掛程式。

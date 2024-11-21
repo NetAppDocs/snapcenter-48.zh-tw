@@ -27,7 +27,7 @@ link:task_back_up_resource_groups_sap_hana.html["備份資源群組"]
 
 * 如果您想要在一或多個租戶資料庫當機時建立檔案型備份、請使用將HANA內容檔案中的參數設定為* Yes* `Set-SmConfigSettings` Cmdlet。
 +
-您可以執行Get-Help _command_name_來取得可搭配Cmdlet使用之參數及其說明的相關資訊。或者、您也可以參閱 https://library.netapp.com/ecm/ecm_download_file/ECMLP2885482["《軟件指令程式參考指南》SnapCenter"]
+您可以執行Get-Help _command_name_來取得可搭配Cmdlet使用之參數及其說明的相關資訊。或者、您也可以參閱 https://docs.netapp.com/us-en/snapcenter-cmdlets-48/index.html["《軟件指令程式參考指南》SnapCenter"]
 
 * 對於靜止、Snapshot複製及靜止作業的前置和POST命令、您應該從下列路徑檢查外掛程式主機上可用的命令清單中是否有這些命令：
 +
@@ -46,7 +46,7 @@ NOTE: 如果命令清單中不存在這些命令、則作業將會失敗。
 . 在左導覽窗格中、按一下*資源*、然後從清單中選取適當的外掛程式。
 . 在「資源」頁面中、根據資源類型篩選*檢視*下拉式清單中的資源。
 +
-按一下*image:../media/filter_icon.gif[""]*、然後選取主機名稱和資源類型以篩選資源。然後按一下 image:../media/filter_icon.gif[""] 以關閉篩選窗格。
+按一下 *image:../media/filter_icon.gif["篩選圖示"] ，然後選取主機名稱和資源類型以篩選資源。接著您可以按一下 image:../media/filter_icon.gif["篩選圖示"] 以關閉篩選窗格。
 
 . 按一下您要備份的資源。
 . 在「資源」頁面中、選取*使用Snapshot COPU*的自訂名稱格式、然後輸入您要用於Snapshot複本名稱的自訂名稱格式。
@@ -109,7 +109,7 @@ NOTE: 如果命令清單中不存在這些命令、則作業將會失敗。
 
 |===
 +
-image:../media/application_settings.gif[""]
+image:../media/application_settings.gif["應用程式設定"]
 
 
 
@@ -118,12 +118,12 @@ image:../media/application_settings.gif[""]
 .. 從下拉式清單中選取一或多個原則。
 +
 
-NOTE: 您也可以按一下*來建立原則image:../media/add_policy_from_resourcegroup.gif[""]*。
+NOTE: 您也可以按一下 * * 來建立原則image:../media/add_policy_from_resourcegroup.gif["從資源群組新增原則"]。
 
 +
 在「設定所選原則的排程」區段中、會列出所選原則。
 
-.. 按一下*image:../media/add_policy_from_resourcegroup.gif[""]*在您要為其設定排程的原則的「設定排程」欄中。
+.. 針對您要設定排程的原則、按一下「設定排程」欄中的 * *image:../media/add_policy_from_resourcegroup.gif["從資源群組新增原則"]。
 .. 在「新增原則_policy_name_的排程」對話方塊中、設定排程、然後按一下「*確定*」。
 +
 _policy_name_是您選取的原則名稱。

@@ -99,7 +99,7 @@ Microsoft Exchange Server的資源群組SnapCenter 每個Snapshot複本不能有
 .. 從下拉式清單中選取一或多個原則。
 +
 
-NOTE: 您也可以按一下*來建立原則image:../media/add_policy_from_resourcegroup.gif[""]*。
+NOTE: 您也可以按一下 * * 來建立原則image:../media/add_policy_from_resourcegroup.gif["從資源群組新增原則"]。
 
 +
 
@@ -108,7 +108,7 @@ NOTE: 如果原則包含*在備份工作建立時間*選取的伺服器上備份
 +
 在「設定所選原則的排程」區段中、會列出所選原則。
 
-.. 在「設定所選原則的排程」區段中、按一下*image:../media/add_policy_from_resourcegroup.gif[""]*在您要為其設定排程的原則*設定排程*欄中。
+.. 在「設定所選原則的排程」區段中、針對您要設定排程的原則、按一下 * 「設定排程 * 」欄中的 * *image:../media/add_policy_from_resourcegroup.gif["從資源群組新增原則"]。
 .. 在「新增原則_policy_name_的排程」對話方塊中、指定開始日期、到期日和頻率來設定排程、然後按一下「*確定*」。
 +
 您必須針對原則中所列的每個頻率執行此動作。設定的排程會列在「設定所選原則的排程」區段的「*套用的排程*」欄中。
@@ -126,7 +126,7 @@ NOTE: 如果原則包含*在備份工作建立時間*選取的伺服器上備份
 對於電子郵件通知、您必須使用GUI或PowerShell命令來指定SMTP伺服器詳細資料 `Set-SmSmtpServer`。
 
 +
-您可以執行_Get-Help命令name_來取得可搭配Cmdlet使用之參數及其說明的相關資訊。或者、您也可以參閱 https://library.netapp.com/ecm/ecm_download_file/ECMLP2885482["《軟件指令程式參考指南》SnapCenter"^]。
+您可以執行_Get-Help命令name_來取得可搭配Cmdlet使用之參數及其說明的相關資訊。或者、您也可以參閱 https://docs.netapp.com/us-en/snapcenter-cmdlets-48/index.html["《軟件指令程式參考指南》SnapCenter"^]。
 
 . 檢閱摘要、然後按一下「*完成*」。
 
