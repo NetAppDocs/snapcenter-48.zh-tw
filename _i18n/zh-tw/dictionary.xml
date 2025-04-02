@@ -4018,7 +4018,6 @@ Oracle資料庫外掛程式會安裝SnapCenter 適用於UNIX的支援功能、�
   <block id="9f2c74676fb5b339a2fd4a0ccd75bd1e" category="list-text">從SnapCenter DR備份的「SQL Server適用的支援程式」資料夾匯入Windows和SQL排程。</block>
   <block id="d13de4a83d7b44c2e65495def8ef1c7b" category="paragraph-title">以取得更多資訊</block>
   <block id="27e7993c4841ae5fd670cdd945ccb96d" category="inline-link-macro">災難恢復API</block>
-  <block id="ab9238ca6f628634f6f6f2cf63502cdb" category="paragraph">請參閱 <block ref="44de5c9fafab2e4e76e19e3717abc2e2" category="inline-link-macro-rx"></block> 影片：</block>
   <block id="f74dbba68e937810c60f2ff30516a3c7" category="summary">您可以使用SnapCenter 支援功能來複製SQL Server資料庫備份。如果您想要存取或還原舊版資料、可以隨需複製資料庫備份。</block>
   <block id="3eee6ccd820abf187846b44912303266" category="doc">從SQL Server資料庫備份複製</block>
   <block id="8d7e861fc562f8034dc5e3fbf095339d" category="list-text">您應該已完成新增主機、識別資源及建立儲存系統連線等工作、準備好保護資料。</block>
@@ -5249,7 +5248,6 @@ _\https ： &lt;SnapCenter_IP_address_or_name&gt; ： &lt;SnapCenter_port&gt; / 
   <block id="32f68a60cef40faedbc6af20298c1a1e" category="paragraph">刪除</block>
   <block id="9aa96933bdaa05ec27830a1517e54f9a" category="paragraph">啟用或停用儲存災難恢復</block>
   <block id="9bb6ced642f1be37b6ad58e85292fffa" category="paragraph"><block ref="d1ce3cd66a1844665a722875b7dc8311" prefix="" category="inline-code"></block></block>
-  <block id="90840bc3d6109c892e0f709274fdc6b6" category="paragraph">如需詳細資訊、請參閱<block ref="af818973dd6acaf1e28a3bd4ca9bd4a5" category="inline-link-rx"></block> 影片：</block>
   <block id="fc004b0a2e525fdc279e93342807a662" category="summary">您可以透過HTTP要求中設定的參數和變數來控制API呼叫的處理方式。</block>
   <block id="ee083ff11ffc430b7230624e8985e88c" category="doc">控制API要求的輸入變數</block>
   <block id="957a8c35c28e967701ff975f1d7182d5" category="section-title">HTTP方法</block>
@@ -7900,7 +7898,6 @@ NetApp ® 單一信箱恢復已於 2023 年 5 月 12 日結束可用度（ EOA �
   <block id="f367d650e57088caf7b808e01235016d" category="inline-link">如何使用SnapCenter NetApp從SMBR的二線儲存設備還原</block>
   <block id="41b4c689a8b0e3ba8bfecb2a1e608e46" category="list-text"><block ref="41b4c689a8b0e3ba8bfecb2a1e608e46" category="inline-link-rx"></block></block>
   <block id="f004280f6db6ea5f9302c9851388d751" category="inline-link">使用SMBR從SnapVault 功能中還原Microsoft Exchange郵件</block>
-  <block id="1b0fb59a5bc951f7dc82cb43fe362145" category="list-text"><block ref="00a76af185a73b84e54e96058031aef5" category="inline-link-rx"></block></block>
   <block id="47dfd37b6d44f98f65b2e75ff64e7f3a" category="summary">備份Exchange Server資料庫包括與SnapCenter 該伺服器建立連線、探索Exchange Server資料庫、新增原則、建立備份資源群組、備份及檢視備份狀態。</block>
   <block id="6c40f1cde52cc35bedb76a6ac167d83e" category="doc">使用PowerShell Cmdlet備份Exchange資源</block>
   <block id="177c6d04e35e22fd728d0f8aa88c6c74" category="admonition">Exchange的外掛程式不支援複製作業、因此Exchange的外掛程式不支援Add-SmPolicy Cmdlet的CloneType參數</block>
@@ -8304,4 +8301,7 @@ NetApp ® 單一信箱恢復已於 2023 年 5 月 12 日結束可用度（ EOA �
   <block id="d1f68d146c3a156b97620bbf537dc143" category="paragraph">您可以執行_Get-Help命令name_來取得可搭配Cmdlet使用之參數及其說明的相關資訊。或者，您也可以參閱<block ref="f03332b8749704621bfe232d591a600b" category="inline-link-rx"></block>。</block>
   <block id="9792c7ba1a8a833a1c75e11c4a7b46c3" category="list-text">如果您要升級多個主機、請選取所有主機、按一下、然後按一 <block ref="725f4bf2ffc300942027282d0182533f" category="inline-image-macro-rx" type="image"></block>下 * 升級 * &gt; * 確定 * 。</block>
   <block id="ae08501da5e1f78dacab0013886bb73e" category="image-alt">SnapCenter 升級</block>
+  <block id="c23d56866a5b11fd0d8dc189fcf21298" category="list-text"><block ref="341e3fddad4b27511133b6917a75bb8a" category="inline-link-rx"></block></block>
+  <block id="57cf9c4ee485623172a5c60cbee423a4" category="paragraph">觀看 <block ref="96716f545c5cf1a209bf10c1a798ce38" category="inline-link-macro-rx"></block> 影片。</block>
+  <block id="86ea794e2d7fcff39be7476200e06b51" category="paragraph">如需詳細資訊，請參閱<block ref="a62945bfb4dadbe324d9f8ad560f4a1c" category="inline-link-rx"></block>影片。</block>
 </blocks>
