@@ -47,27 +47,17 @@ summary: 支援災難恢復功能、使用REST API來備份功能。SnapCenter S
 +
 伺服器etc/host項目將不會還原。您可以從DR備份資料夾手動還原。
 
++
+*** 災難恢復還原之後、將會新增主機、但您應該手動安裝外掛程式。
+*** 只有當您安裝SnapCenter 適用於Windows的還原外掛程式、並將NetApp LUN附加至伺服器機器時、儲存庫備份排程才會還原。
+*** 如果 DLL 毀損、您可以嘗試修復 SnapCenter 伺服器或修正錯誤的安裝。
+*** 如果 NSM 或組態檔案毀損、您可以使用相同版本解除安裝並重新安裝 SnapCenter 伺服器。
+*** 如果虛擬機器已損壞，請啟動另一台虛擬機器或具有相同名稱的機器並安裝具有相同版本的SnapCenter Server。
 
 
 
 
 
-NOTE: 如果是使用F5設定、還原作業會以獨立執行、您應該執行一組命令來再次建立F5。請參閱連結： https://kb.netapp.com/Advice_and_Troubleshooting/Data_Protection_and_Security/SnapCenter/How_to_Migrate_SnapCenter_migrate_to_another_Server["如何將SnapCenter 解決方法移轉至其他伺服器"^]
-
-
-NOTE: 災難恢復還原之後、將會新增主機、但您應該手動安裝外掛程式。
-
-
-NOTE: 只有當您安裝SnapCenter 適用於Windows的還原外掛程式、並將NetApp LUN附加至伺服器機器時、儲存庫備份排程才會還原。
-
-
-NOTE: 如果 DLL 毀損、您可以嘗試修復 SnapCenter 伺服器或修正錯誤的安裝。
-
-
-NOTE: 如果 NSM 或組態檔案毀損、您可以使用相同版本解除安裝並重新安裝 SnapCenter 伺服器。
-
-
-NOTE: 只有當您安裝SnapCenter 適用於Windows的還原外掛程式、並將NetApp LUN附加至伺服器機器時、儲存庫備份排程才會還原。
 
 
 
