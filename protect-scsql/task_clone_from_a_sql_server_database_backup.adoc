@@ -168,6 +168,4 @@ link:reference_back_up_sql_server_database_or_instance_or_availability_group.htm
 
 link:task_clone_backups_using_powershell_cmdlets_for_sql.html["使用PowerShell Cmdlet複製備份"]
 
-https://kb.netapp.com/Advice_and_Troubleshooting/Data_Protection_and_Security/SnapCenter/Clone_operation_might_fail_or_take_longer_time_to_complete_with_default_TCP_TIMEOUT_value["複製作業可能會失敗、或需要較長時間才能完成預設的TCP_timeout值"]
-
-https://kb.netapp.com/Advice_and_Troubleshooting/Data_Protection_and_Security/SnapCenter/The_failover_cluster_instance_database_clone_fails["容錯移轉叢集執行個體資料庫複製失敗"]
+https://kb.netapp.com/Advice_and_Troubleshooting/Data_Protection_and_Security/SnapCenter/The_failover_cluster_instance_database_clone_fails["容錯移轉叢集執行個體資料庫複製失敗"^]
